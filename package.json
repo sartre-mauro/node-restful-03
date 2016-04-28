@@ -1,0 +1,30 @@
+{
+  "name": "node-restful-03",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sartre-mauro/node-restful-03.git"
+  },
+  "author": "Omar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sartre-mauro/node-restful-03/issues"
+  },
+  "homepage": "https://github.com/sartre-mauro/node-restful-03#readme",
+  "devDependencies": {},
+  "dependencies": {
+    "body-parser": "^1.15.0",
+    "connect": "^3.4.1",
+    "errorhandler": "^1.4.3",
+    "express": "^4.13.4",
+    "method-override": "^2.3.5",
+    "multer": "^1.1.0",
+    "url": "^0.11.0"
+  }
+}
